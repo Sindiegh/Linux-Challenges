@@ -1,0 +1,4 @@
+----------------TASK4------------------
+
+1. locate umuzi
+2. find /umuzi -exec cp{} /search_result.md \;

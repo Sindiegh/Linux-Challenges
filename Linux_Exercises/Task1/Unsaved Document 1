@@ -1,0 +1,38 @@
+-----------------TASK 1-----------------
+1. type in ls and press enter. What do you see? What does this mean?
+
+--I see a list of directories, It means that that ls displays all the folders or directories
+
+2. type in pwd and press enter. What do you see? What does this mean?
+--I see /home/recruit, it means that this is the path of where directory is currently at.
+
+
+3. Make a new directory called workspace then cd into your new directory
+--mkdir workspace 
+--ls
+--cd workspace
+      
+
+4. type in ls and press enter. What do you see? What does this mean?
+
+--an empty workspace directory ,it means that the folder does not have any files inside.
+
+5.Make a new file called README.md (you can use the touch command to do this)
+
+
+6. Make a copy of README.md, name your copy CHANGELOG.md
+
+--touch README.md
+
+
+
+
+
+
+
+
+
+
+
+
+
